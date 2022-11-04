@@ -6,4 +6,4 @@
 
 研究过GeoServer、MapServer等地图引擎
 
-自己用GoLang从0写了mdb和gdb数据库的读取代码，放GIS开发者从ArcGIS和gdal中解放出来
+自己用GoLang从0写了mdb和gdb数据库的读取代码，让GIS开发者从ArcGIS和gdal中解放出来
