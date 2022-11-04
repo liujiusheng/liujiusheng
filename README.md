@@ -8,4 +8,7 @@
 
 从事全栈WEB开发，熟练掌握Angular、Vue、Node.js、GoLang、Spring Cloud、GDAL等技术体系
 
-目前正在研发一个多格式集成预览的小工具，支持gdb、mdb、pdf、docx、xlsx、jpg、png、txt等格式（定价20元/套）
+目前正在研发一个多格式集成预览的小工具，支持gdb、mdb、pdf、docx、xlsx、jpg、png、txt、zip等格式（20元/套）
+
+![软件演示动图](https://user-images.githubusercontent.com/9045263/199882858-471413e6-6405-4317-9f7e-cf6633ce6ecc.gif)
+
