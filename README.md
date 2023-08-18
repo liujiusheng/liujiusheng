@@ -12,3 +12,6 @@
 
 ![软件演示动图](https://user-images.githubusercontent.com/9045263/199882858-471413e6-6405-4317-9f7e-cf6633ce6ecc.gif)
 
+微信公众号：开源GIS地图与信创
+
+![微信公众号](https://github.com/liujiusheng/liujiusheng/assets/9045263/79c8533f-ffea-4d28-b50c-802135d8295b)
